@@ -25,6 +25,14 @@ function HeroSection() {
         >
           WATCH TRAILER <i className='far fa-play-circle' />
         </Button>
+<iframe
+            width="1120"
+            height="630"
+            src="https://www.youtube.com/embed/ieHmd3jMAok"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
       </div>
     </div>
   );
